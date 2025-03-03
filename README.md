@@ -311,6 +311,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## E
 
+- [Enis Kastrati](https://eniskastrati.de)
 - [Edgard Barquero Real](https://barquero.dev)
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Ehsan Rafee](https://ehsanrafee.ir)
